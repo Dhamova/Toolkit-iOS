@@ -7,4 +7,9 @@ target 'Toolkit' do
 
   # Pods for Toolkit
   pod 'Firebase/Core'
+  pod 'Firebase/Firestore'
+  
+  pod 'AlamofireImage'
+  
+  
 end
